@@ -1,0 +1,11 @@
+temperature,pressure,material
+28,101,steel
+29,102,steel
+30,100,composite
+29,101,composite
+31,102,steel
+,100,composite
+29,101,steel
+30,101,composite
+30,100,steel
+,102,composite

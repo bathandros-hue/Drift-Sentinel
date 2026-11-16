@@ -1,0 +1,11 @@
+temperature,pressure,material
+19,101,steel
+20,102,steel
+19,100,steel
+21,101,aluminum
+20,102,steel
+19,100,aluminum
+21,101,steel
+20,101,steel
+19,100,steel
+20,102,aluminum

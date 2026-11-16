@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "drift-sentinel"
+version = "0.1.0"
+description = "Explainable numeric, categorical and missingness drift checks for tabular ML data"
+requires-python = ">=3.10"
+license = "MIT"
+dependencies = []
+
+[project.scripts]
+drift-sentinel = "driftsentinel.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["driftsentinel*"]
